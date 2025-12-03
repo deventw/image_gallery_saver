@@ -47,3 +47,4 @@ Original package: https://pub.dev/packages/image_gallery_saver
 
 Same license as the original plugin (see [LICENSE](../LICENSE))
 
+
